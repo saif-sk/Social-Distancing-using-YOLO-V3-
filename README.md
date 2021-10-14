@@ -25,6 +25,11 @@ that any two persons should maintain a physical distance of 1.8 meters apart
 distancing and different penalties for breaking them.
 
 
+
+***USE the above videos as DATA SET and run the code***
+
+
+
 for futher reference :
 Yolov3 object detection : https://www.learnopencv.com/deep-learning-based-objectdetection-using-yolov3-with-opencv-python-c/ Prespective Transform : https://opencvpythontutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_geometric_transformatio
 ns/py_geometric_transformations.htm
